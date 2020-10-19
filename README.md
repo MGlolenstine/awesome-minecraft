@@ -41,7 +41,7 @@ A curated list of awesome Minecraft related libraries for bukkit developer needs
 - [Languagy](https://gitlab.com/SamB440/languagy) - Library for detecting player locale settings and auto translating provided messages.
 
 ### NBT
-- [NBT-API](https://github.com/tr7zw/Item-NBT-API) - Add custom NBT tags to Itemstacks, Tile Entities and Entities, or modify excisting ones.
+- [NBT-API](https://github.com/tr7zw/Item-NBT-API) - Add custom NBT tags to Itemstacks, Tile Entities and Entities, or modify existing ones.
 - [Kotlin NBT API](https://gist.github.com/camdenorrb/bec73c5608267f0232bd8f5c42e0784d) - A 200 line NBT library for Kotlin!
 
 ### Packets
